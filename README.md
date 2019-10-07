@@ -7,7 +7,6 @@ Machine learning is a topic that has risen in prominence recently as we get more
 - Fundamentals of Machine Learning for Predictive Data Analytics - Kelleher, J.; Namee, B.; D'Arcy, A.
 - Deep Learning by Goodfellow, I.; Bengio, Y.;  Courville, A.
   - website: http://www.deeplearningbook.org/
-  - https://github.com/HFTrader/DeepLearningBook
 - Python Data Science Handbook by VanderPlas, J.
   - website: https://github.com/jakevdp/PythonDataScienceHandbook
 - Hands-On Machine Learning with Scikit-Learn and TensorFlow
@@ -38,4 +37,4 @@ Meetings will take place on Fridays at 1-2 pm in **PAB-3-703**. Room changes wil
 | Date | Topic | Readings | Presenter |
 | --- | --- | --- | --- |
 |2019-10-04 | Introductions  |  | T. Do|
-|2019-10-11 | Probability & Naive Bayes | Kelleher Ch 1. & 6  | T. Do|
+|2019-10-11 | Intro to ML & Probability-Based Learning | Kelleher Ch 1 & 6  | T. Do|
