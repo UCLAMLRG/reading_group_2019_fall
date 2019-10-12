@@ -16,12 +16,12 @@ Machine learning is a topic that has risen in prominence recently as we get more
 - Data Analysis: A Bayesian Tutorial - Sivia, D. & Skilling, J. - Not part of regular reading, but this is a useful reference for Bayesian statistics
 
 ## Quick-Getting started with SciServer Compute
-SciServer.org is a computational cloud environment that Johns Hopkins University (IDIES group) has generously allowed us to use for our projects. Jupyter notebooks/terminal are the interfaces to access datasets such as SDSS. Here's how to clone this github repo into your SciServer account:
+SciServer.org is an NSF-funded computational cloud environment that Johns Hopkins University (IDIES group) has generously allowed us to use for our projects. Jupyter notebooks/terminal are the interfaces to access datasets such as SDSS. Here's how to clone this github repo into your SciServer account:
 1. Create an account at sciserver.org and go to Compute
-2. Create a new container (Docker container), choose the type to be Python, and a container Jupyter notebook interface will be created.
+2. Create a new container (Docker container), choose the Compute Image type to be 'Python + R', and a container Jupyter notebook interface will be created.
 3. On the right hand side, go to New-> terminal and a black terminal interface will appear.
-4. In this order in the terminal, type each of these at a time (separated by a comma) and hit enter:
-5. ls, cd home, ls, cd idies, cd workspace, cd persistent, ls, git clone url-of-git-repository-here
+4. In this order in the terminal, type each of the following comma-separated commands one at a time and hit enter after each one:
+5. pwd, cd workspace, cd Storage, cd [yourusername], cd persistent, ls, git clone url-of-git-repository-here
 6. the respository will now be in your folder.
 
 -- SciServer cosmology and astronomy Jupyter Notebook code samples https://github.com/sciserver/Notebooks
