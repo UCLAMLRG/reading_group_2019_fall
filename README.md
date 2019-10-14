@@ -38,3 +38,5 @@ Meetings will take place on Fridays at 1-2 pm in **PAB-3-703**. Room changes wil
 | --- | --- | --- | --- |
 |2019-10-04 | Introductions  |  | T. Do|
 |2019-10-11 | Intro to ML & Probability-Based Learning | Kelleher Ch 1 & 6  | T. Do|
+|2019-10-18 | Naive Bayes | Kelleher Ch. 6.2.3 to 6.4.1 (p. 262-276) | A. Gautam |
+
